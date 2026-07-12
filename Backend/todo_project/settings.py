@@ -127,9 +127,9 @@ REST_FRAMEWORK = {
 }
 
 CORS_ALLOWED_ORIGINS = [
-    "https://to-do-project-sage.vercel.app",
+    "https://to-do-project-l1o705sr6-shib-code.vercel.app",
 ]
 
 CSRF_TRUSTED_ORIGINS = [
-    "https://to-do-project-sage.vercel.app",
+    "https://to-do-project-l1o705sr6-shib-code.vercel.app",
 ]
