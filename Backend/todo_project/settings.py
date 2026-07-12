@@ -134,3 +134,4 @@ REST_FRAMEWORK = {
 CORS_ALLOWED_ORIGINS = [
     "https://to-do-project-sage.vercel.app",
 ]
+CORS_ALLOW_ALL_ORIGINS = True
